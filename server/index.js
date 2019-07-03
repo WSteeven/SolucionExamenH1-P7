@@ -19,5 +19,5 @@ fs.readFile('./credentials.json', (err, content)=>{
     //Autorizar el cliente con las credenciales, luego llamar a la API de Gmail
     autorize(JSON.parse(content), listLabels); //método para leer las etiquetas de gmail
 });
-
+console.log('Alvaro vale nepe');
 //Crear un cliente oauth2 con las credenciales json y 

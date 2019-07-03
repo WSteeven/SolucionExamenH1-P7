@@ -1,3 +1,4 @@
+
 //El servidor y la configuración
 const gmailSender = require('gmail-sender-oauth'); //Gmail sender https://www.npmjs.com/package/gmail-sender-oauth
 //ver https://www.npmjs.com/package/@readdle/googleapis

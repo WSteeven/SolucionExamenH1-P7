@@ -1,9 +1,10 @@
 {
-  "name": "SolucionExamenH1-P7",
+  "name": "solucion_examen",
   "version": "1.0.0",
   "description": "Solución del examen del primer Hemisemestre de programación 7. Uso de la API de Gmail para gestionar los mensajes",
   "main": "index.js",
   "dependencies": {
+    "express": "^4.17.1",
     "gmail-sender-oauth": "^1.0.5",
     "googleapis": "^40.0.1",
     "nodemailer": "^6.2.1",
